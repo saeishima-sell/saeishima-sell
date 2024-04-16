@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, I'm Sae 👩🏻‍💻🍜🍣🍵🌸
+<br/>
+Currently I am working as a frontend developer at [3pc](https://3pc.de/) :coffee:  also lerning about Media design at school in Berlin.
+<br/>
+Here you can find more about me : [my first portfolio](https://saeishima-sell.github.io/portfolio/) :tangerine: :dog:
+<br/>
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" />
+</div>
 
-<!--
-**saeishima-sell/saeishima-sell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :beginner: 💻 I’m learning and working with: `HTML` `CSS` `SASS` `Nunjucks` `Javascript`
+-  🤔💡 I'm interested in : `Frontend Animation` and `Web Accessibility`
